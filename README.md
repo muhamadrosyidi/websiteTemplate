@@ -29,6 +29,3 @@ and for better SEO, you may replace this point :
   };
 replace 'title' with your business name and summary of your business in 'description' option
 =======
-# websiteTemplate
-A simple web-application for small business
->>>>>>> 0bef57bac744ffed8d4bde5242be84e16a90db31
