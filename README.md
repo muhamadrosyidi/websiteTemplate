@@ -24,8 +24,11 @@ For using this template,
 
 and for better SEO, you may replace this point :
   export const metadata = {
-    title: "GO CHECK CAR",
+  
+    title: "GO CHECK CAR",  
     description : "car inspection"
+    
   };
+  
 replace 'title' with your business name and summary of your business in 'description' option
 
