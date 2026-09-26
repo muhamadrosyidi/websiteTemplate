@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi everyone! 👋
 
 This is an open-source, lightweight website template originally created in 2021. It is designed for small business owners and freelancers who want a quick and effective way to establish an online presence.
@@ -27,3 +28,7 @@ and for better SEO, you may replace this point :
     description : "car inspection"
   };
 replace 'title' with your business name and summary of your business in 'description' option
+=======
+# websiteTemplate
+A simple web-application for small business
+>>>>>>> 0bef57bac744ffed8d4bde5242be84e16a90db31
